@@ -1,0 +1,8 @@
+C:\Users\allap\OneDrive\Рабочий стол\C#\TO_DO-BD\TO_DO-BD\bin\Debug\TO_DO-BD.exe.config
+C:\Users\allap\OneDrive\Рабочий стол\C#\TO_DO-BD\TO_DO-BD\bin\Debug\TO_DO-BD.exe
+C:\Users\allap\OneDrive\Рабочий стол\C#\TO_DO-BD\TO_DO-BD\bin\Debug\TO_DO-BD.pdb
+C:\Users\allap\OneDrive\Рабочий стол\C#\TO_DO-BD\TO_DO-BD\obj\Debug\TO_DO-BD.csproj.AssemblyReference.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\TO_DO-BD\TO_DO-BD\obj\Debug\TO_DO-BD.csproj.SuggestedBindingRedirects.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\TO_DO-BD\TO_DO-BD\obj\Debug\TO_DO-BD.csproj.CoreCompileInputs.cache
+C:\Users\allap\OneDrive\Рабочий стол\C#\TO_DO-BD\TO_DO-BD\obj\Debug\TO_DO-BD.exe
+C:\Users\allap\OneDrive\Рабочий стол\C#\TO_DO-BD\TO_DO-BD\obj\Debug\TO_DO-BD.pdb
